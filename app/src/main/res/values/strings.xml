@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendEmail</string>
+    <string name="email">sendEmail</string>
+    <string name="ad">收件人地址</string>
+    <string name="titletips">邮件标题</string>
+    <string name="mes">邮件内容</string>
+</resources>
